@@ -5,4 +5,6 @@ A continuacion, relaciono mi modificacion y posterior commit.
 softfarr@gmail.com
 Nataly Ramos- Desarrollador BD- jnramosm@gmail.com
 
+Leonardo J. Huelvas Borja - Desarrollador - lejhubo01@hotmail.com
+
 
